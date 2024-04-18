@@ -5,7 +5,7 @@ The goal of this project is...
 I got bored and figured I'd like the make a weird linux distro
 
 ## Planned Features
-Default linux-tkg-bore kernel
-Rust package manager alternative to pacman
-Rust aur package manager [Rawrur](https://github.com/realmrcactus/Rawrur)
-xorg desktop installer in i3wm with calamares 
+Default linux-tkg-bore kernel<br>
+Rust package manager alternative to pacman<br>
+Rust aur package manager [Rawrur](https://github.com/realmrcactus/Rawrur)<br>
+xorg desktop installer in i3wm with calamares<br>
